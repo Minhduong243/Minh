@@ -1,0 +1,31 @@
+INDORE, India—India is in the middle of an unprecedented mobile-video binge that is changing how many technology companies see the evolution of the internet.
+
+As 4G data rates have dropped below $2 a month, the volume of video streamed on Indians’ smartphones has grown by 10-fold, adding billions of hours more a year in the past three years. That makes India the country with YouTube’s biggest audience in 2018, according to App Annie, an analytics company that tracks and ranks app usage.
+
+Indian smartphone users now download an average of about 8.5 gigabytes of data a month—or potentially more than 40 hours of video—off mobile networks without using Wi-Fi, according to research by Analysys Mason. That is more than what users in the U.S., China or Japan download.
+
+Delhi student Ritik Taank says he misses playing cricket with friends. But these days, he says, everyone is at home watching and sharing funny video clips on their smartphones. The 18-year-old spends hours each day flipping through music videos, comedy skits, gaming clips and his favorite fashion and entertainment vlogs. He also uses YouTube to watch math and science explainer videos while riding the bus to school. Often, he reaches his one-gigabyte-a-day limit by sunset and has to switch to his mother’s phone.
+
+“She scolds me,” he said. “But I explain it would be a waste if her data doesn’t get used.”
+
+The video explosion is transforming the Indian media landscape, creating new stars in Bollywood, forcing new investment in servers and cellular sites, and launching new genres of online content. Video has surged in popularity elsewhere, of course; it has taken off in a new direction in China, where short-video platforms offering seconds-long clips have made companies like Beijing Bytedance Technology Co. among the world’s most highly-valued startups.
+
+In India, it is creating new opportunities for YouTube—owned by Alphabet Inc.’s Google—and other platforms to learn new lessons about video use. The South Asian nation’s surfers, many of them coming online for the first time, are exploring the web through video rather than static websites. They are driven more by swiping, speaking and viewing, and less by typing, searching and reading—prompting companies to adapt their apps. Indians’ love of video is especially enticing for companies at a time when there are efforts to reduce screen time in the U.S.
+
+“We have learned that when you make India’s experience better we end up improving our products for everyone around the world,” said Caesar Sengupta, Google’s vice president for payments and its Next Billion Users initiative, at a New Delhi event last year.
+
+To better understand the new video-obsessed Indian netizen, YouTube, which has close to 250 million monthly users in India, has sent teams into homes across India to ask people about their surfing habits.
+
+Shelby Vignolo, a program manager on the emerging markets team at YouTube, visited homes in the central Indian city of Indore, hoping to learn more about the habits of those newest to the internet. She sat in their homes and went through a list of basic questions. “Could you rank the apps you use?” “Do you use voice search?” “Can you show me your viewing history?”
+
+Ms. Vignolo takes what she learns back to headquarters to help the company redesign its apps and user interfaces. On a trip last year it became apparent that for many Indians, the video app is their first stop for medical advice, financial tips, research for travel and even religious learning.
+
+In other words, YouTube is their Google.
+
+“People in India are increasingly using YouTube as if it is a search engine,” she said. “They find it easier to watch something, rather than sift through text.”
+
+It isn’t just what Indians watch but also how they consume content that is driving companies to innovate. They like to download as much as possible when they have a connection. They monitor their allotted gigabytes a day, week or month carefully. And when they reach the final hour of the day or day of the month, they binge some more to make sure they use up every byte they bought, telecom companies say.
+
+To accommodate this new breed of binger, YouTube lets users search by voice in Indian languages. It allows users to download videos to their phones and watch later. To speed up download times on bad connections, it allows them to pick a lower picture quality and has rewritten its app from scratch to so it uses one-tenth the memory. Most of these changes are developed for India but are being brought to other countries as well.
+
+YouTube is also trying to promote a greater variety of content in different languages and different subjects to make it easier for Indian surfers to find what they are looking for. India-specific categories of videos have also taken off. Henna tattoo designs for brides, village cooking, spiritual gurus and Indian engineering-school entrance-exam cram courses are new genres that are thriving.
